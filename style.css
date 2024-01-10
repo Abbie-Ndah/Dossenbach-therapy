@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Display&display=swap');
+
+* {
+    color: rgb(74, 74, 67);
+}
+body{
+    font-family: 'Nunito', sans-serif;
+}
+h1 {
+    font-family:'Libre Caslon Display', serif ;
+}
+.nav-link:hover {
+    border-bottom: 1px solid rgb(74, 74, 67);
+    padding: 2px;
+}
+.dropdown-item{
+    border-bottom: 1px solid rgb(74, 74, 67);
+    text-align: center;
+}
+#main-header{
+    background-image: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/dossenbach0a5yk/main2-A0xK3w5v20ulGZKB.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.psycho{
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+@media screen and (min-width: 768px) {
+    .header-h1  {
+        font-size: 7.3rem !important;
+        font-weight: 300 !important;
+        font-family: 'Libre Caslon Display', serif;
+        color: rgb(74, 74, 67); 
+    }
+    .hero{
+        width: 50% !important;
+    }
+}
+
+.btn{
+    border-radius: 0;
+    padding: 0.5rem 2.5rem;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+.card-title{
+    font-family: 'Libre Caslon Display', serif;
+    font-weight: 500;
+    font-size: 1.4rem;
+}
+.card-text{
+    font-size: 0.85rem;
+    color: rgb(74, 74, 67);
+}
+.card{
+    border: none;
+    color: rgb(74, 74, 67);
+}
+.card-img-top{
+    width: 23%;
+}
+
+/* SECTION TWO BEGINS */
+.section-2, .section-5 {
+    background-color: rgb(243, 243, 242);
+}
+
+
+.section-4{
+    background-color: rgb(135, 135, 128);
+}
+
+footer{
+    background-color: rgb(74, 74, 67) !important;
+}
+.psych-help{
+    width: 39% !important;
+}
+
+/* For Individual Page  and Couples Page*/
+.body-main{
+    background-color: rgb(243, 243, 242);
+}
+#individual-header{
+    background-color:  rgb(243, 243, 242);
+}
+#first-text{
+    padding-top: 10rem;
+    padding-bottom: 1rem;
+}
+#therapy{
+    font-size: 7rem;
+}
+#first-text{
+    font-size: 1rem;
+}
+
+.min-text{
+    font-size: 0.9rem;
+}
+.min-text-1{
+    font-size: 0.9rem;
+    line-height: 2;
+}
+
+#plusButton{
+    border-radius: 0;
+    width: 3rem;
+    height: 3rem;
+    text-align: center;
+    
+}
+#minusButton{
+    border-radius: 0;
+    width: 3rem;
+    height: 3rem;
+    text-align: center;
+    
+}
+#count{
+    border-radius: 0;
+    width: 3rem;
+    height: 3rem;
+    text-align: center;
+    
+}
+
+.btn-p{
+    font-size: 0.98rem;
+    font-family: DM Sans,sans-serif;
+}
+.section-two{
+    background-color: rgb(135, 135, 128);
+}
+/* About Page */
