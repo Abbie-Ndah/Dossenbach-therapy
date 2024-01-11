@@ -13,9 +13,19 @@ h1 {
     border-bottom: 1px solid rgb(74, 74, 67);
     padding: 2px;
 }
+.nav-link{
+    font-size: 1.3rem !important;
+}
+.dropdown-item{
+    font-size: 1.2rem !important;
+}
 .dropdown-item{
     border-bottom: 1px solid rgb(74, 74, 67);
     text-align: center;
+}
+.nav-item button {
+    border: 0;
+    background-color: transparent;
 }
 #main-header{
     background-image: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/dossenbach0a5yk/main2-A0xK3w5v20ulGZKB.png);
